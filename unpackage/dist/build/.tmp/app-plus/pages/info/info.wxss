@@ -1,0 +1,17 @@
+
+.content.data-v-49e2cce4{
+	padding: 10rpx 2%;
+	width: 96%;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.title.data-v-49e2cce4{
+	line-height: 2em;
+	font-weight: 700;
+	font-size: 38rpx;
+}
+.art-content.data-v-49e2cce4{
+	line-height: 2em;
+}
+

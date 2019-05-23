@@ -1,0 +1,1 @@
+<view class="content data-v-32f8c479" bind:__l="__l"><view class="title data-v-32f8c479">{{''+title+''}}<rich-text class="richText data-v-32f8c479" nodes="{{strings}}"></rich-text></view></view>
